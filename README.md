@@ -49,7 +49,7 @@ Bu proje, yol üzerindeki viraj tabelalarını YOLOv3 tabanlı bir derin öğren
 
 ## Proje Görseli
 
-![Viraj İkaz Sistemi](https://www.linkedin.com/posts/ahmetcantopcuoglu_yolov3-python-spyder-activity-7171544056571772929-7NK9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLb__MBdAHwaKz-Ccp6ceEVVNgI4kjRjnE)
+https://www.linkedin.com/posts/ahmetcantopcuoglu_yolov3-python-spyder-activity-7171544056571772929-7NK9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLb__MBdAHwaKz-Ccp6ceEVVNgI4kjRjnE
 
 ---
 
